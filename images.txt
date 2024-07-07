@@ -18,3 +18,4 @@ ghcr.io/mhsanaei/3x-ui:latest
 lscr.io/linuxserver/heimdall:latest
 ghcr.io/ajnart/homarr:latest
 mzz2017/v2raya-gui
+ghcr.io/open-webui/open-webui:main
