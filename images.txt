@@ -25,3 +25,4 @@ ffdfgdfg/npc
 ffdfgdfg/nps
 v5star/rustdesk-api
 cloudflare/cloudflared
+registry.cn-hangzhou.aliyuncs.com/tiptime/ttnode:latest
