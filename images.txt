@@ -24,3 +24,4 @@ rustdesk/rustdesk-server:latest
 ffdfgdfg/npc
 ffdfgdfg/nps
 v5star/rustdesk-api
+cloudflare/cloudflared
