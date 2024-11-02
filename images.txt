@@ -27,3 +27,4 @@ v5star/rustdesk-api
 cloudflare/cloudflared
 registry.cn-hangzhou.aliyuncs.com/tiptime/ttnode:latest
 cym1102/nginxwebui:latest
+makedie/fastapi-dls:latest
