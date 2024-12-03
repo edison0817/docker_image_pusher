@@ -21,8 +21,8 @@ mzz2017/v2raya-gui
 ghcr.io/open-webui/open-webui:main
 ghcr.io/kingmo888/rustdesk-api-server:latest
 rustdesk/rustdesk-server:latest
-ffdfgdfg/npc
-ffdfgdfg/nps
+yisier1/npc
+yisier1/nps
 v5star/rustdesk-api
 cloudflare/cloudflared
 registry.cn-hangzhou.aliyuncs.com/tiptime/ttnode:latest
