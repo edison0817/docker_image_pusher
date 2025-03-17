@@ -17,7 +17,7 @@ ghcr.io/songquanpeng/one-api
 ghcr.io/mhsanaei/3x-ui:latest
 lscr.io/linuxserver/heimdall:latest
 ghcr.io/ajnart/homarr:latest
-mzz2017/v2raya-gui
+mzz2017/v2raya
 ghcr.io/open-webui/open-webui:main
 ghcr.io/kingmo888/rustdesk-api-server:latest
 rustdesk/rustdesk-server:latest
@@ -29,3 +29,7 @@ registry.cn-hangzhou.aliyuncs.com/tiptime/ttnode:latest
 cym1102/nginxwebui:latest
 makedie/fastapi-dls:latest
 ghcr.io/open-webui/open-webui:cuda
+ollama/ollama
+linzeyi/hivision_idphotos
+yidadaa/chatgpt-next-web
+jhj0517/whisper-webui:latest
