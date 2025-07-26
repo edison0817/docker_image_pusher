@@ -1,7 +1,7 @@
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+xhofe/alist:v3.40.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 #0614添加
@@ -41,3 +41,6 @@ onlyoffice/controlpanel:3.5.2.530
 onlyoffice/communityserver:12.6.0.1900
 postgres:12
 rabbitmq
+lejianwen/rustdesk-api:v2.6.25
+openlistteam/openlist:v4.0.9-aio
+rustdesk/rustdesk-server:1.1.14
