@@ -34,13 +34,14 @@ linzeyi/hivision_idphotos
 yidadaa/chatgpt-next-web
 jhj0517/whisper-webui:latest
 onlyoffice/elasticsearch:7.16.3
-onlyoffice/documentserver:8.1
+onlyoffice/documentserver:9.0
 mysql:8.0.29
 onlyoffice/mailserver:1.6.75
 onlyoffice/controlpanel:3.5.2.530
-onlyoffice/communityserver:12.6.0.1900
+onlyoffice/communityserver:12.7.1.1942
 postgres:12
 rabbitmq
 lejianwen/rustdesk-api:v2.6.25
 openlistteam/openlist:v4.0.9-aio
 rustdesk/rustdesk-server:1.1.14
+linkease/kspeeder:latest
